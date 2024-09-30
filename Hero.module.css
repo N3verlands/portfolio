@@ -1,0 +1,20 @@
+.hero {
+    background: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .headshot {
+    border-radius: 50%;
+  }
+  
+  .ctaButton {
+    background: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 1rem;
+  }
+  

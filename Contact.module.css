@@ -1,0 +1,38 @@
+.main {
+    padding: 2rem;
+  }
+  
+  .contact {
+    text-align: center;
+  }
+  
+  .contactForm {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .contactForm label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contactForm input,
+  .contactForm textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .contactForm button {
+    background: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .map {
+    margin-top: 2rem;
+  }
+  

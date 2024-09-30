@@ -1,0 +1,14 @@
+.main {
+    padding: 2rem;
+  }
+  
+  .about {
+    text-align: center;
+  }
+  
+  .headshot {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
